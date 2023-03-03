@@ -1,3 +1,9 @@
+
+This is an open source portfolio to view my projrcts and experience 
+i used Massively HTML5 up to download free tamplate, then i customized this template for my needs 
+
+
+
 Massively by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
@@ -14,8 +20,7 @@ you can use for pretty much whatever.
 
 (* = not included)
 
-AJ
-aj@lkn.io | @ajlkn
+AJaj@lkn.io | @ajlkn
 
 
 Credits:
